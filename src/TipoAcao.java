@@ -1,0 +1,3 @@
+public enum TipoAcao {
+    SACAR,DEPOSITAR,TRANSFERIR,INVESTIR
+}
